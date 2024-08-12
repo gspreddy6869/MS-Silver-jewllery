@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "66b9e8fb22b99c4c9f86f21c"
+  },
+  "name": "new",
+  "description": "32vc65",
+  "price": {
+    "$numberLong": "5000000000000"
+  },
+  "type": "ring",
+  "image": "1723459835313.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba07133ac06f2ab9058b80"
+  },
+  "name": "Goli ShivaPrasad Reddy ",
+  "description": "csdfvc dfx",
+  "price": 234,
+  "type": "nrxklace",
+  "image": "1723467539516.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba08f73ac06f2ab9058b8f"
+  },
+  "name": "new",
+  "description": "dcx",
+  "price": 200,
+  "type": "dec",
+  "image": "1723468023767.png",
+  "__v": 0
+}]
